@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(236, 229, 229);
+    margin: 0;
+    padding: 0;
+    font-family: Argerian;
+}
+#crear #cuenta{}
+#crear .section-columns {
+    
+    border: 1px solid black;
+    width: 500px;
+    background: #6088c0;
+    margin: auto;
+    margin-top: 100px;
+    padding: 50px;
+}
+#crear .section-columns h3{
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.box, .box2, .box3, .box4, .box5, .box6{
+    margin-top: 10px;
+}
+input{
+    padding: 9px 10px 9px 10px;
+    border-radius: 8px;
+}
+/* .box3 input{
+    width: 450px;
+} */
+
+.btn-section{
+    background-color: rgb(165, 186, 206);
+    border: 1px solid black;
+    width: 70px;
+    border-radius: 4px;
+    text-align: center;
+}
+.btn-section a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn-section:hover{
+    background-color: white;
+	border-color: blue;
+	color: black;
+}
+.bnt-section a:hover{
+    text-decoration: none;
+    color: black;
+}
